@@ -1,0 +1,6 @@
+framework module SZViewSDKPods {
+  umbrella header "SZViewSDKPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
